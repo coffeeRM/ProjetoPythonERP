@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <smtp>smtp-mail.outlook.com</smtp>
+    <porta>587</porta>
+    <remetente>rodriggo_9910@hotmail.com</remetente>
+    <senha>M21fgher32@#</senha>
+    <destinatario>moraisrodrigo780@gmail.com</destinatario>
+
+    <mensagem>
+        <assunto>Arquivos para contabilidade</assunto>
+        <corpo>Oi tudo bem? Segue em anexo os arquivos para a contabilidade,&#10;&#10;Atenciosamente,&#10;&#10;Aluminew</corpo>
+    </mensagem>
+
+    <empresa>
+        <diretorio_xml>E:\teste PYTHON\Nova pasta\TESTE\NFE</diretorio_xml>
+        <diretorio_pdf>E:\teste PYTHON\Nova pasta\TESTE\PDF</diretorio_pdf>
+    </empresa>
+</config>
