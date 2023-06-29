@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <smtp>host</smtp>
+    <porta>port</porta>
+    <remetente>username</remetente>
+    <senha>password</senha>
+    <destinatario>destinatario</destinatario>
+
+    <mensagem>
+        <assunto>Arquivos para contabilidade</assunto>
+        <corpo>Oi tudo bem? Segue em anexo os arquivos para a contabilidade,&#10;&#10;Atenciosamente,&#10;&#10;Aluminew</corpo>
+    </mensagem>
+
+    <empresa>
+        <diretorio_xml>diretorio xml</diretorio_xml>
+        <diretorio_pdf>diretorio PDF</diretorio_pdf>
+    </empresa>
+</config>
